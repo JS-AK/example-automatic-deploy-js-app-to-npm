@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/JS-AK/test-dep/compare/v1.0.0...v1.0.1) (2023-01-21)
+
+
+### Bug Fixes
+
+* bugs ([07c9865](https://github.com/JS-AK/test-dep/commit/07c9865faee75d585497a22dac16ac6d7aa805d2))
+
 # 1.0.0 (2023-01-21)
 
 
