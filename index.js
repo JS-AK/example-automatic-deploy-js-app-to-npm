@@ -1,3 +1,3 @@
-const isTest = (str) => str === 'TEST_2'
+const isTest = (str) => str === 'TEST_3'
 
 module.exports = isTest
