@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/JS-AK/test-dep/compare/v1.0.2...v1.0.3) (2023-01-21)
+
+
+### Bug Fixes
+
+* change publish flow to npm ([1e27fc6](https://github.com/JS-AK/test-dep/commit/1e27fc6572dbe43d953121af658565d127f2b34e))
+
 ## [1.0.2](https://github.com/JS-AK/test-dep/compare/v1.0.1...v1.0.2) (2023-01-21)
 
 
