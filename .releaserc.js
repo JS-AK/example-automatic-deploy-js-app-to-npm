@@ -7,6 +7,7 @@ function getPlugins() {
 			'@semantic-release/commit-analyzer',
 			'@semantic-release/release-notes-generator',
 			['@semantic-release/changelog', { changelogFile: 'CHANGELOG.md' }],
+			['@semantic-release/npm'],
 			['@semantic-release/git', {
 				assets: ['CHANGELOG.md', 'package.json'],
 				message: '${nextRelease.version} CHANGELOG [skip ci]\n\n${nextRelease.notes}',
@@ -18,6 +19,7 @@ function getPlugins() {
 	return [
 		'@semantic-release/commit-analyzer',
 		'@semantic-release/release-notes-generator',
+		['@semantic-release/npm'],
 		['@semantic-release/git', {
 			assets: ['package.json'],
 			message: '${nextRelease.version} CHANGELOG [skip ci]\n\n${nextRelease.notes}',
