@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/JS-AK/test-dep/compare/v1.0.4...v1.0.5) (2023-01-21)
+
+
+### Bug Fixes
+
+* index.js ([7365f25](https://github.com/JS-AK/test-dep/commit/7365f25cd5046a8c82f81db2e07e1693ad917d95))
+
 ## [1.0.4](https://github.com/JS-AK/test-dep/compare/v1.0.3...v1.0.4) (2023-01-21)
 
 
