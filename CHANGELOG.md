@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/JS-AK/test-dep-42/compare/v1.0.5...v1.0.6) (2023-01-21)
+
+
+### Bug Fixes
+
+* rep url ([93ecf73](https://github.com/JS-AK/test-dep-42/commit/93ecf730abf10c121611c0cb8c08f3cc4975e8b3))
+
 ## [1.0.5](https://github.com/JS-AK/test-dep/compare/v1.0.4...v1.0.5) (2023-01-21)
 
 
