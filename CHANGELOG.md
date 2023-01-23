@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.0.9...v1.0.10) (2023-01-23)
+
+
+### Bug Fixes
+
+* package-lock.json ([f42fbc6](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/commit/f42fbc605d28a08695ed8c8d175d6f1ebd627de5))
+
 ## [1.0.9](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.0.8...v1.0.9) (2023-01-23)
 
 
