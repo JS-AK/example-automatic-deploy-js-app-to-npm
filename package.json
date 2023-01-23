@@ -1,5 +1,5 @@
 {
-  "name": "test-dep-42",
+  "name": "example-automatic-deploy-js-app-to-npm",
   "version": "1.0.6",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JS-AK/test-dep-42.git"
+    "url": "git+https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JS-AK/test-dep-42/issues"
+    "url": "https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/issues"
   },
-  "homepage": "https://github.com/JS-AK/test-dep-42#readme",
+  "homepage": "https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/commit-analyzer": "^9.0.2",
