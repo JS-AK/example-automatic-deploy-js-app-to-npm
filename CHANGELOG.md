@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.0.6...v1.0.7) (2023-01-23)
+
+
+### Bug Fixes
+
+* rename package ([104537d](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/commit/104537d494ee19e54563ac6d46c5466465a7a8af))
+
 ## [1.0.6](https://github.com/JS-AK/test-dep-42/compare/v1.0.5...v1.0.6) (2023-01-21)
 
 
