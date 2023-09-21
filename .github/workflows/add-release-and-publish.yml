@@ -3,6 +3,7 @@ name: make-release
 on:
   push:
     branches:
+      - dev
       - master
 
 jobs:
