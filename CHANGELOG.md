@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.0.14...v1.0.15) (2023-11-04)
+
+
+### Bug Fixes
+
+* updated .releaserc.js ([8077310](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/commit/8077310ba28fbd6e0189fac6b8d5f77022d07b4f))
+
 ## [1.0.14](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.0.13...v1.0.14) (2023-11-04)
 
 
