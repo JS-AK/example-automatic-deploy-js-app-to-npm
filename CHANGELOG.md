@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.0.15...v1.1.0) (2024-06-17)
+
+
+### Bug Fixes
+
+* updated gh publish workflow ([2335b96](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/commit/2335b96545dd085dfffec31303d3a584370dbd7f))
+
+
+### Features
+
+* update dev-deps to actual ([5869514](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/commit/5869514f2e9f5b6489dd9fe75fca12ac97c1d299))
+
 ## [1.0.15](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.0.14...v1.0.15) (2023-11-04)
 
 
