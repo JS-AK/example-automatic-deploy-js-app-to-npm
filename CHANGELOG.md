@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.1.0...v1.1.1) (2024-06-22)
+
+
+### Bug Fixes
+
+* updated uncontrolled resource consumption in braces ([7422c67](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/commit/7422c677a89cad9fa908f75119b529a8772f35ff))
+
 # [1.1.0](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm/compare/v1.0.15...v1.1.0) (2024-06-17)
 
 
